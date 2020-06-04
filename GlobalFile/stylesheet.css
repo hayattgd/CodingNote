@@ -1,3 +1,11 @@
 body {
     font-family: sans-serif;
 }
+li {
+    list-style: none;
+}
+input,link,button,p,a,header,body,footer,main,h1,h2,h3,h4,
+h5,h6,select,section,canvas,head,li,area {
+    padding: 0px;
+    margin: 0px;
+}
